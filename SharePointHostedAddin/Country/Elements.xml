@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{c2f2def0-32db-4314-a816-8133dd006779}"
+       Name="Country"
+       DisplayName="Country"
+       Type="Choice"
+       Required="FALSE"
+       Group="Custom Site Columns">
+    <CHOICES>
+      <CHOICE>India</CHOICE>
+      <CHOICE>USA</CHOICE>
+    </CHOICES>
+  </Field>
+</Elements>

@@ -96,6 +96,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="SPOJS\GetItem.js" />
+    <Content Include="SPOJS\DisplayList.js" />
+    <Content Include="SPOJS\UpdateSiteTitle.js" />
+    <Content Include="SPOJS\GetSiteTitle.js" />
     <Content Include="SPOJS\Intro.txt" />
     <Content Include="SPOJS\intro.js" />
   </ItemGroup>
